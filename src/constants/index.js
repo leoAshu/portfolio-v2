@@ -54,7 +54,7 @@ import {
       icon: backend,
     },
     {
-      title: "Machine Learning Engineer",
+      title: "ML/AI Engineer",
       icon: creator,
     },
   ];
