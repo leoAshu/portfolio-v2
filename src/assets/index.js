@@ -6,6 +6,7 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import demo from './demo.png'
 
 import css from "./tech/css.png";
 import html from "./tech/html.png";
@@ -26,9 +27,7 @@ import issc from "./company/issc.png";
 import amazon from "./company/amazon.png";
 import enparadigm from "./company/enparadigm.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import sumz from "./sumz.png";
 
 export {
   logo,
@@ -39,6 +38,7 @@ export {
   github,
   menu,
   close,
+  demo,
   css,
   html,
   javascript,
@@ -56,7 +56,5 @@ export {
   issc,
   amazon,
   enparadigm,
-  carrent,
-  jobit,
-  tripguide,
+  sumz
 };
