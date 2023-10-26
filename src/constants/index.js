@@ -8,13 +8,14 @@ import {
     html,
     css,
     reactjs,
-    redux,
-    tailwind,
     nodejs,
     mongodb,
-    git,
-    figma,
-    docker,
+    android,
+    flask,
+    flutter,
+    python,
+    tf,
+    java,
     oit,
     amazon,
     enparadigm,
@@ -22,7 +23,6 @@ import {
     carrent,
     jobit,
     tripguide,
-    threejs,
   } from "../assets";
   
   export const navLinks = [
@@ -77,40 +77,40 @@ import {
       icon: typescript,
     },
     {
+      name: "Python",
+      icon: python,
+    },
+    {
+      name: "Java",
+      icon: java,
+    },
+    {
       name: "React JS",
       icon: reactjs,
-    },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
-    {
-      name: "Tailwind CSS",
-      icon: tailwind,
     },
     {
       name: "Node JS",
       icon: nodejs,
     },
     {
+      name: "Flask",
+      icon: flask,
+    },
+    {
+      name: "Android",
+      icon: android,
+    },
+    {
+      name: "Flutter",
+      icon: flutter,
+    },
+    {
+      name: "Tensorflow",
+      icon: tf,
+    },
+    {
       name: "MongoDB",
       icon: mongodb,
-    },
-    {
-      name: "Three JS",
-      icon: threejs,
-    },
-    {
-      name: "git",
-      icon: git,
-    },
-    {
-      name: "figma",
-      icon: figma,
-    },
-    {
-      name: "docker",
-      icon: docker,
     },
   ];
   
