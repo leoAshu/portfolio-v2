@@ -28,6 +28,7 @@ import amazon from "./company/amazon.png";
 import enparadigm from "./company/enparadigm.png";
 
 import sumz from "./sumz.png";
+import dalle from './dalle.png';
 
 export {
   logo,
@@ -56,5 +57,6 @@ export {
   issc,
   amazon,
   enparadigm,
-  sumz
+  sumz,
+  dalle
 };

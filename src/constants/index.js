@@ -20,7 +20,8 @@ import {
     amazon,
     enparadigm,
     issc,
-    sumz
+    sumz,
+    dalle
   } from "../assets";
   
   export const navLinks = [
@@ -191,6 +192,28 @@ import {
   ];
   
   const projects = [
+    {
+      name: "DALL-E 2.0",
+      description:
+        "A MERN app that leverages OpenAI's DALL-E API to generate and share images, fostering a creative and collaborative space.",
+      tags: [
+        {
+          name: "mern-stack",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "openAI",
+          color: "green-text-gradient",
+        },
+      ],
+      image: dalle,
+      source_code_link: "https://github.com/leoAshu/dalle_clone",
+      demo_link: "https://dalle-clone-khaki.vercel.app/"
+    },
     {
       name: "Sumz",
       description:
