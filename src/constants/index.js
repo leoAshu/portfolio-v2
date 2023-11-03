@@ -228,7 +228,7 @@ import {
           color: "pink-text-gradient",
         },
         {
-          name: "openAI",
+          name: "rapidAPI",
           color: "green-text-gradient",
         },
       ],
