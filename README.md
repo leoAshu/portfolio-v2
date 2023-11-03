@@ -1,8 +1,13 @@
-# React + Vite
+<p align="center">
+    <image src="images/cover.png">
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 3D Portfolio
 
-Currently, two official plugins are available:
+A 3D portfolio website developed using React.js and Three.js, featuring a dynamic and interactive user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies
+
+- `React`: Front-end library for dynamic user interfaces
+- `Three.js`: JavaScript library used to create and display animated 3D computer graphics in a web browser using WebGL.
+- `Framer Motion`: JavaScript based animation library for React.
