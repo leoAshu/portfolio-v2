@@ -29,7 +29,7 @@ import enparadigm from "./company/enparadigm.png";
 
 import sumz from "./sumz.png";
 import dalle from './dalle.png';
-import ziplink from './ziplin.png';
+import ziplink from './ziplink.png';
 
 export {
   logo,
