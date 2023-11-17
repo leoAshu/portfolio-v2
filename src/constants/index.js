@@ -21,7 +21,8 @@ import {
     enparadigm,
     issc,
     sumz,
-    dalle
+    dalle,
+    ziplink
   } from "../assets";
   
   export const navLinks = [
@@ -192,6 +193,28 @@ import {
   ];
   
   const projects = [
+    {
+      name: "ZipLink",
+      description:
+        "A MERN stack solution for efficient sharing, turning extensive URLs into streamlined tiny links.",
+      tags: [
+        {
+          name: "mern-stack",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "orange-text-gradient",
+        },
+        {
+          name: "mongodb",
+          color: "green-text-gradient",
+        },
+      ],
+      image: ziplink,
+      source_code_link: "https://github.com/leoAshu/zip-link",
+      demo_link: "https://zip-link-six.vercel.app/"
+    },
     {
       name: "DALL-E 2.0",
       description:

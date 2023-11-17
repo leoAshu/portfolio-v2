@@ -29,6 +29,7 @@ import enparadigm from "./company/enparadigm.png";
 
 import sumz from "./sumz.png";
 import dalle from './dalle.png';
+import ziplink from './ziplin.png';
 
 export {
   logo,
@@ -58,5 +59,6 @@ export {
   amazon,
   enparadigm,
   sumz,
-  dalle
+  dalle,
+  ziplink
 };
